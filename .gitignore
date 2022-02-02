@@ -30,3 +30,11 @@ dist/
 /models
 
 .DS_Store
+download.zip
+*.jpg
+download/retail_product_checkout/instances_val2019.json
+download/retail_product_checkout/instances_train2019.json
+download/retail_product_checkout/instances_test2019.json
+download/instances_val2019.json
+download/instances_train2019.json
+download/instances_test2019.json
