@@ -1,6 +1,6 @@
 MODEL:
   META_ARCHITECTURE: "GeneralizedRCNN"
-  WEIGHT: "catalog://ImageNetPretrained/MSRA/R-101"
+  WEIGHT: "https://github.com/lufficc/DPNet/releases/download/0.1/syn_render_finetune.pth"
   BACKBONE:
     CONV_BODY: "R-101-FPN"
   RESNETS:
